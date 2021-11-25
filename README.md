@@ -1,13 +1,13 @@
-#Arabic_Handwritten_Recognition_DeepLearning
+# Arabic_Handwritten_Recognition_DeepLearning
 You're given images of handwritten Arabic characters and you're required to recognize the character.
 
-##Data:
+## Data:
 you will find the link inside the jupyter nootebook.
 
-##Model:
+## Model:
 Run the Nootebook.
 
-#Accuracy on Validation Data:
+# Accuracy on Validation Data:
 .96 but on Training .98.
 
 
